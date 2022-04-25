@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed allawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed allawy" height="30" width="40" /></a>
-<a href="https://fb.com/احمد علاوي" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="احمد علاوي" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedallawy" height="30" width="40" /></a>
+<a href="https://fb.com/احمد علاوى" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="احمد علاوى" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedallawy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eng_ahmedallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eng_ahmedallawy" height="30" width="40" /></a>
 </p>
