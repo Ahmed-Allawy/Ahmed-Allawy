@@ -1,4 +1,4 @@
-<h1 align="center">السلام عليكم اسمي احمد علاوي</h1>
+<h1 align="center">السلام عليكم</h1>
 <h3 align="center">Interested in java software development and IOT</h3>
 
 - 🔭I am currently a student in the Department of Electrical Engineering, Department of Computers and Systems **Zagazig University**
