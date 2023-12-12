@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ahmdmwsy042@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1uX5H-0mq2dJX-3I3ZJGsFIIa85USgA1m](https://drive.google.com/drive/u/0/folders/1uX5H-0mq2dJX-3I3ZJGsFIIa85USgA1m)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-allawy-4b11911ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-allawy-4b11911ba" height="30" width="40" /></a>
