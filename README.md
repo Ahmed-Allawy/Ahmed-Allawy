@@ -1,7 +1,7 @@
 <h1 align="center">السلام عليكم</h1>
 <h3 align="center">Interested in internet of things [IoT] and mobile development with flutter </h3>
 
-- 🔭I am currently a frech grad from Electrical Engineering, Department of Computers and Systems **Zagazig University**
+- 🔭I am currently a fresh graduate from Electrical Engineering, Department of Computers and Systems **Zagazig University**
 
 - 🌱 I’m currently learning IOT and Mobile Development **maharah tech**
 
